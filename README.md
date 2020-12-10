@@ -1,2 +1,2 @@
 # dbm-mods
-This repository houses all mods made for the Steam program DBM (Discord Bot Maker).
+This repository houses all of mods I've made for the Steam program DBM (Discord Bot Maker).
